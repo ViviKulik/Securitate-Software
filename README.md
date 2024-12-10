@@ -126,9 +126,3 @@ By default, the server runs on **localhost** and uses **control port 2121** for 
 - **Usage**: `NOOP`
 - **Response**:
   - `200 Command okay.`: Confirms that the server is responsive.
-
----
-
-## **File System Structure**
-- **Root Directory**: The root directory of the FTP server is the `storage` folder, where all files and directories are stored.
-- **Temporary Files**: Temporary files created during transfers are automatically cleaned up.
