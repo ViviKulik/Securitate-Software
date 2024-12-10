@@ -1,6 +1,6 @@
 # Securitate-Software
 
-This is a FTP client in C++. The server was developed by my colleague: https://github.com/deedeemaan/ProiectFTP
+This is a FTP client in C++. The server was developed by my colleague: https://github.com/deedeemaan/ProiectFTP.
 By default, the server runs on **localhost** and uses **control port 2121** for development.
 
 ## **Supported FTP Commands**
